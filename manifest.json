@@ -1,0 +1,15 @@
+{
+  "name": "MegaBeat Touch Clone - MIDI Karaoke Player",
+  "short_name": "MegaBeat Touch",
+  "description": "Professional MIDI Karaoke Player - ESS MegaBeat Touch Plus Clone",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "categories": [
+    "music",
+    "productivity"
+  ]
+}
